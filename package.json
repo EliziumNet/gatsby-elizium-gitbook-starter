@@ -1,7 +1,6 @@
 {
-  "name": "gatsby-gitbook-boilerplate",
-  "private": true,
-  "description": "Documentation, built with mdx",
+  "name": "gatsby-elizium-gitbook-starter",
+  "description": "Elizium Documentation Child Template",
   "author": "Praveen <praveen@hasura.io> (@praveenweb)",
   "version": "0.0.1",
   "dependencies": {
